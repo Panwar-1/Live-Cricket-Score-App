@@ -1,3 +1,10 @@
+# screenshot 
+![Screenshot](https://github.com/Dharmendra05/Live-Cricket-Score-App/blob/master/Screenshot%20from%202021-04-28%2019-44-52.png)
+![Screenshot2](https://github.com/Dharmendra05/Live-Cricket-Score-App/blob/master/Screenshot%20from%202021-04-28%2019-44-59.png)
+![Screenshot3](https://github.com/Dharmendra05/Live-Cricket-Score-App/blob/master/Screenshot%20from%202021-04-28%2019-45-09.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
